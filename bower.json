@@ -1,7 +1,7 @@
 {
   "name": "injax",
-  "main": "injax.js",
-  "version": "0.0.1",
+  "main": ["injax.js","injax.css"]
+  "version": "0.0.3",
   "homepage": "https://github.com/cgrauer/injax",
   "authors": [
     "Christian Grauer <mail@cgrauer.de>"
