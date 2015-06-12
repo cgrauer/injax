@@ -1,6 +1,6 @@
 {
   "name": "injax",
-  "main": ["injax.js","injax.css"]
+  "main": ["injax.js","injax.css"],
   "version": "0.0.4",
   "homepage": "https://github.com/cgrauer/injax",
   "authors": [
