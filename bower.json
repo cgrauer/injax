@@ -1,0 +1,28 @@
+{
+  "name": "injax",
+  "main": "injax.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cgrauer/injax",
+  "authors": [
+    "Christian Grauer <mail@cgrauer.de>"
+  ],
+  "description": "Create inplace editable fields and store data asynchronously (ajax) to your backend.",
+  "keywords": [
+    "inplace",
+    "ajax",
+    "form",
+    "edit",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+}
