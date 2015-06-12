@@ -1,1 +1,4 @@
-.injax-edit, .injax-close, .injax-save { display: none;}
+.injax-button-save, 
+.injax-button-view,
+.injax-area-edit
+ { display: none;}
